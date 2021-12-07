@@ -1,0 +1,9 @@
+1638850622985	geckodriver	INFO	Listening on 127.0.0.1:60717
+1638850626060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilekvSuvk"
+*** You are running in headless mode.
+1638850626352	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilekvSuvk\\search.json.mozlz4", (void 0)))
+1638850627252	Marionette	INFO	Listening on port 60725
+1638850627601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
