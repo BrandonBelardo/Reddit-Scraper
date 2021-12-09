@@ -161,7 +161,8 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-1638938083585	geckodriver	INFO	Listening on 127.0.0.1:51379
+Exiting due to channel error.
+Listening on 127.0.0.1:51379
 1638938086638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilePsfsWq"
 *** You are running in headless mode.
 1638938086898	Marionette	INFO	Marionette enabled
@@ -218,7 +219,9 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilemHz06R"
+Exiting due to channel error.
+Exiting due to channel error.
+le" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilemHz06R"
 *** You are running in headless mode.
 1638939635404	Marionette	INFO	Marionette enabled
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -228,7 +231,9 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileKSOavO"
+Exiting due to channel error.
+Exiting due to channel error.
+le" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileKSOavO"
 *** You are running in headless mode.
 1638939689144	Marionette	INFO	Marionette enabled
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -269,7 +274,9 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileR35CwB"
+Exiting due to channel error.
+Exiting due to channel error.
+le" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileR35CwB"
 *** You are running in headless mode.
 1638940741302	Marionette	INFO	Marionette enabled
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -291,7 +298,8 @@ JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bf
 JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile4q1O47"
+Exiting due to channel error.
+-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile4q1O47"
 *** You are running in headless mode.
 1638940973493	Marionette	INFO	Marionette enabled
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -311,7 +319,8 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofiletlgzzd"
+Exiting due to channel error.
+-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofiletlgzzd"
 *** You are running in headless mode.
 1638941122873	Marionette	INFO	Marionette enabled
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -331,3 +340,1001 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639003222910	geckodriver	INFO	Listening on 127.0.0.1:55922
+1639003225992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofiles4zDIu"
+*** You are running in headless mode.
+1639004061703	geckodriver	INFO	Listening on 127.0.0.1:56228
+1639004064728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile4yy46W"
+*** You are running in headless mode.
+1639004064976	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile4yy46W\\search.json.mozlz4", (void 0)))
+1639004065771	Marionette	INFO	Listening on port 56236
+1639004066257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileGsmYXt"
+*** You are running in headless mode.
+1639004248463	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileGsmYXt\\search.json.mozlz4", (void 0)))
+1639004249247	Marionette	INFO	Listening on port 56382
+1639004249746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilejW3dAv"
+*** You are running in headless mode.
+1639004297119	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilejW3dAv\\search.json.mozlz4", (void 0)))
+1639004297916	Marionette	INFO	Listening on port 56491
+1639004298412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\Temp\\rust_mozprofile1CTt5P"
+*** You are running in headless mode.
+1639004323084	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile1CTt5P\\search.json.mozlz4", (void 0)))
+1639004323962	Marionette	INFO	Listening on port 56604
+1639004324353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileZLH9dM"
+*** You are running in headless mode.
+1639004675116	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileZLH9dM\\search.json.mozlz4", (void 0)))
+1639004675924	Marionette	INFO	Listening on port 56955
+1639004676396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639005958110	geckodriver	INFO	Listening on 127.0.0.1:61500
+1639005961198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilejFosDI"
+*** You are running in headless mode.
+1639005961454	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilejFosDI\\search.json.mozlz4", (void 0)))
+1639005962338	Marionette	INFO	Listening on port 61510
+1639005962738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileDeeecl"
+*** You are running in headless mode.
+1639005969790	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileDeeecl\\search.json.mozlz4", (void 0)))
+1639005970696	Marionette	INFO	Listening on port 61575
+1639005971057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileS6r29g"
+*** You are running in headless mode.
+1639006013186	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileS6r29g\\search.json.mozlz4", (void 0)))
+1639006014049	Marionette	INFO	Listening on port 61643
+1639006014470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileugnak1"
+*** You are running in headless mode.
+1639006034366	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileugnak1\\search.json.mozlz4", (void 0)))
+1639006035271	Marionette	INFO	Listening on port 61710
+1639006035551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile2RJHI7"
+*** You are running in headless mode.
+1639006043162	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile2RJHI7\\search.json.mozlz4", (void 0)))
+1639006044020	Marionette	INFO	Listening on port 61775
+1639006044440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileRt407q"
+*** You are running in headless mode.
+1639006073311	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileRt407q\\search.json.mozlz4", (void 0)))
+1639006074165	Marionette	INFO	Listening on port 61839
+1639006074569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileW3qgR4"
+*** You are running in headless mode.
+1639006144259	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileW3qgR4\\search.json.mozlz4", (void 0)))
+1639006145130	Marionette	INFO	Listening on port 61970
+1639006145517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile6rNJNg"
+*** You are running in headless mode.
+1639006387432	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile6rNJNg\\search.json.mozlz4", (void 0)))
+1639006388284	Marionette	INFO	Listening on port 62119
+1639006388698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileHXstOM"
+*** You are running in headless mode.
+1639006442619	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileHXstOM\\search.json.mozlz4", (void 0)))
+1639006443472	Marionette	INFO	Listening on port 62195
+1639006443893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileENlxFO"
+*** You are running in headless mode.
+1639006535037	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileENlxFO\\search.json.mozlz4", (void 0)))
+1639006535901	Marionette	INFO	Listening on port 62283
+1639006536295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639007380699	geckodriver	INFO	Listening on 127.0.0.1:63556
+1639007383746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileOlCDKP"
+*** You are running in headless mode.
+1639007384023	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileOlCDKP\\search.json.mozlz4", (void 0)))
+1639007384854	Marionette	INFO	Listening on port 63564
+1639007385284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639011264964	geckodriver	INFO	Listening on 127.0.0.1:51685
+1639011267999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile35daG5"
+*** You are running in headless mode.
+1639011268280	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile35daG5\\search.json.mozlz4", (void 0)))
+1639011269098	Marionette	INFO	Listening on port 51693
+1639011269530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileA3iaMO"
+*** You are running in headless mode.
+1639011315228	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileA3iaMO\\search.json.mozlz4", (void 0)))
+1639011316050	Marionette	INFO	Listening on port 51756
+1639011316484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilefUEuvu"
+*** You are running in headless mode.
+1639011374199	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilefUEuvu\\search.json.mozlz4", (void 0)))
+1639011375098	Marionette	INFO	Listening on port 51879
+1639011375470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilehFw5EI"
+*** You are running in headless mode.
+1639011488602	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilehFw5EI\\search.json.mozlz4", (void 0)))
+1639011489460	Marionette	INFO	Listening on port 52016
+1639011489831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilesAjI3F"
+*** You are running in headless mode.
+1639011728106	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilesAjI3F\\search.json.mozlz4", (void 0)))
+1639011728975	Marionette	INFO	Listening on port 52164
+1639011729374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilexKzHsp"
+*** You are running in headless mode.
+1639011988784	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilexKzHsp\\search.json.mozlz4", (void 0)))
+1639011989667	Marionette	INFO	Listening on port 52509
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilegYxTtc"
+*** You are running in headless mode.
+1639012139408	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilegYxTtc\\search.json.mozlz4", (void 0)))
+1639012140308	Marionette	INFO	Listening on port 52601
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileUM4IBe"
+*** You are running in headless mode.
+1639012279421	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileUM4IBe\\search.json.mozlz4", (void 0)))
+1639012280294	Marionette	INFO	Listening on port 52697
+1639012280678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639013085458	geckodriver	INFO	Listening on 127.0.0.1:50937
+1639013088485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileyZqH78"
+*** You are running in headless mode.
+1639013088763	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileyZqH78\\search.json.mozlz4", (void 0)))
+1639013089635	Marionette	INFO	Listening on port 50945
+1639013090027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\Temp\\rust_mozprofile9xL7DF"
+*** You are running in headless mode.
+1639013135177	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile9xL7DF\\search.json.mozlz4", (void 0)))
+1639013136067	Marionette	INFO	Listening on port 51085
+1639013136418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileGYdbGa"
+*** You are running in headless mode.
+1639013194458	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileGYdbGa\\search.json.mozlz4", (void 0)))
+1639013195321	Marionette	INFO	Listening on port 51205
+1639013195734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileNKSljg"
+*** You are running in headless mode.
+1639013235091	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileNKSljg\\search.json.mozlz4", (void 0)))
+1639013235918	Marionette	INFO	Listening on port 51332
+1639013236350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilee7tDBO"
+*** You are running in headless mode.
+1639013275234	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilee7tDBO\\search.json.mozlz4", (void 0)))
+1639013276195	Marionette	INFO	Listening on port 51441
+1639013276468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile99CtWe"
+*** You are running in headless mode.
+1639013311367	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile99CtWe\\search.json.mozlz4", (void 0)))
+1639013312268	Marionette	INFO	Listening on port 51556
+1639013312622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofiletUqQ7u"
+*** You are running in headless mode.
+1639013357865	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofiletUqQ7u\\search.json.mozlz4", (void 0)))
+1639013358698	Marionette	INFO	Listening on port 51689
+1639013359104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilekTAiG0"
+*** You are running in headless mode.
+1639013403805	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilekTAiG0\\search.json.mozlz4", (void 0)))
+1639013404697	Marionette	INFO	Listening on port 51823
+1639013405041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilexWEKss"
+*** You are running in headless mode.
+1639013460801	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilexWEKss\\search.json.mozlz4", (void 0)))
+1639013461785	Marionette	INFO	Listening on port 51971
+1639013462036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilezMg5YB"
+*** You are running in headless mode.
+1639013633411	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilezMg5YB\\search.json.mozlz4", (void 0)))
+1639013634331	Marionette	INFO	Listening on port 59463
+1639013634670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilenjNf0O"
+*** You are running in headless mode.
+1639013683510	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilenjNf0O\\search.json.mozlz4", (void 0)))
+1639013684440	Marionette	INFO	Listening on port 59601
+1639013684736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileIA0zRm"
+*** You are running in headless mode.
+1639013716214	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileIA0zRm\\search.json.mozlz4", (void 0)))
+1639013717170	Marionette	INFO	Listening on port 59744
+1639013717445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileMVOYOx"
+*** You are running in headless mode.
+1639013791341	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileMVOYOx\\search.json.mozlz4", (void 0)))
+1639013792266	Marionette	INFO	Listening on port 54106
+1639013792524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilesB1g1g"
+*** You are running in headless mode.
+1639013837926	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilesB1g1g\\search.json.mozlz4", (void 0)))
+1639013838973	Marionette	INFO	Listening on port 56884
+1639013839154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileafUNb1"
+*** You are running in headless mode.
+1639014078346	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileafUNb1\\search.json.mozlz4", (void 0)))
+1639014079329	Marionette	INFO	Listening on port 63110
+1639014079553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileadB1UG"
+*** You are running in headless mode.
+1639014124326	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileadB1UG\\search.json.mozlz4", (void 0)))
+1639014125263	Marionette	INFO	Listening on port 52639
+1639014125529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639014927180	geckodriver	INFO	Listening on 127.0.0.1:58909
+1639014930276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilekQWSB5"
+*** You are running in headless mode.
+1639014930600	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilekQWSB5\\search.json.mozlz4", (void 0)))
+1639014931489	Marionette	INFO	Listening on port 58930
+1639014931827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639016613445	geckodriver	INFO	Listening on 127.0.0.1:53968
+1639016616512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileF7JJpQ"
+*** You are running in headless mode.
+1639016616815	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileF7JJpQ\\search.json.mozlz4", (void 0)))
+1639016617833	Marionette	INFO	Listening on port 53976
+1639016618052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileTPis3j"
+*** You are running in headless mode.
+1639016645002	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileTPis3j\\search.json.mozlz4", (void 0)))
+1639016645928	Marionette	INFO	Listening on port 54078
+1639016646231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileBeAtXO"
+*** You are running in headless mode.
+1639016695555	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileBeAtXO\\search.json.mozlz4", (void 0)))
+1639016696455	Marionette	INFO	Listening on port 54213
+1639016696781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileLZyvoC"
+*** You are running in headless mode.
+1639017027909	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileLZyvoC\\search.json.mozlz4", (void 0)))
+1639017028882	Marionette	INFO	Listening on port 49238
+1639017029152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+O	Listening on 127.0.0.1:49409
+1639017212475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilehGagUx"
+*** You are running in headless mode.
+1639017212784	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilehGagUx\\search.json.mozlz4", (void 0)))
+1639017213697	Marionette	INFO	Listening on port 49417
+1639017214003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+1639018485958	geckodriver	INFO	Listening on 127.0.0.1:56852
+1639018488963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileDYzRdz"
+*** You are running in headless mode.
+1639018489303	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileDYzRdz\\search.json.mozlz4", (void 0)))
+1639018490261	Marionette	INFO	Listening on port 56860
+1639018490506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1639021620687	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1639022325346	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+1639024311457	geckodriver	INFO	Listening on 127.0.0.1:59814
+1639024314473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileDZ5xYA"
+*** You are running in headless mode.
+1639024314820	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileDZ5xYA\\search.json.mozlz4", (void 0)))
+1639024315744	Marionette	INFO	Listening on port 59822
+1639024316006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileQmYXvE"
+*** You are running in headless mode.
+1639024440245	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileQmYXvE\\search.json.mozlz4", (void 0)))
+1639024441167	Marionette	INFO	Listening on port 60019
+1639024441480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileVzlrbm"
+*** You are running in headless mode.
+1639024539721	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileVzlrbm\\search.json.mozlz4", (void 0)))
+1639024540565	Marionette	INFO	Listening on port 60136
+1639024540957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileo0hhPh"
+*** You are running in headless mode.
+1639024614328	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileo0hhPh\\search.json.mozlz4", (void 0)))
+1639024615217	Marionette	INFO	Listening on port 60256
+1639024615573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilenCOwtO"
+*** You are running in headless mode.
+1639024639055	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilenCOwtO\\search.json.mozlz4", (void 0)))
+1639024640023	Marionette	INFO	Listening on port 60365
+1639024640297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile87nYRx"
+*** You are running in headless mode.
+1639024849657	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile87nYRx\\search.json.mozlz4", (void 0)))
+1639024850711	Marionette	INFO	Listening on port 60873
+1639024850870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile36MVBJ"
+*** You are running in headless mode.
+1639025003921	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile36MVBJ\\search.json.mozlz4", (void 0)))
+1639025004874	Marionette	INFO	Listening on port 61014
+1639025005160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilecDXg2w"
+*** You are running in headless mode.
+1639025050434	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilecDXg2w\\search.json.mozlz4", (void 0)))
+1639025051366	Marionette	INFO	Listening on port 50794
+1639025051662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileH7IPVX"
+*** You are running in headless mode.
+1639025166356	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileH7IPVX\\search.json.mozlz4", (void 0)))
+1639025167266	Marionette	INFO	Listening on port 50938
+1639025167525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileTxCMPU"
+*** You are running in headless mode.
+1639025340924	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileTxCMPU\\search.json.mozlz4", (void 0)))
+1639025341846	Marionette	INFO	Listening on port 57586
+1639025342146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile1hnP9o"
+*** You are running in headless mode.
+1639025451582	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile1hnP9o\\search.json.mozlz4", (void 0)))
+1639025452655	Marionette	INFO	Listening on port 55290
+1639025452819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilecbJiEx"
+*** You are running in headless mode.
+1639025517874	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilecbJiEx\\search.json.mozlz4", (void 0)))
+1639025518958	Marionette	INFO	Listening on port 55410
+1639025519082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilerLu5Mj"
+*** You are running in headless mode.
+1639025684863	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilerLu5Mj\\search.json.mozlz4", (void 0)))
+1639025685913	Marionette	INFO	Listening on port 51314
+1639025686091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilex6TCmF"
+*** You are running in headless mode.
+1639025785567	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilex6TCmF\\search.json.mozlz4", (void 0)))
+1639025786540	Marionette	INFO	Listening on port 51453
+1639025786744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileeu9fFK"
+*** You are running in headless mode.
+1639025812384	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileeu9fFK\\search.json.mozlz4", (void 0)))
+1639025813385	Marionette	INFO	Listening on port 51573
+1639025813489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\Temp\\rust_mozprofileUW39hH"
+*** You are running in headless mode.
+1639025844722	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileUW39hH\\search.json.mozlz4", (void 0)))
+1639025845772	Marionette	INFO	Listening on port 61024
+1639025845866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileQ1p8Yn"
+*** You are running in headless mode.
+1639026069936	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileQ1p8Yn\\search.json.mozlz4", (void 0)))
+1639026071122	Marionette	INFO	Listening on port 62541
+1639026071631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileQaEEG5"
+*** You are running in headless mode.
+1639026151709	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileQaEEG5\\search.json.mozlz4", (void 0)))
+1639026152758	Marionette	INFO	Listening on port 62660
+1639026152878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile1NyLRj"
+*** You are running in headless mode.
+1639026229720	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile1NyLRj\\search.json.mozlz4", (void 0)))
+1639026230724	Marionette	INFO	Listening on port 54164
+1639026230898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilehptpAc"
+*** You are running in headless mode.
+1639026261079	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilehptpAc\\search.json.mozlz4", (void 0)))
+1639026262172	Marionette	INFO	Listening on port 54279
+1639026262251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile9fQzzE"
+*** You are running in headless mode.
+1639026627826	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile9fQzzE\\search.json.mozlz4", (void 0)))
+1639026629023	Marionette	INFO	Listening on port 49189
+1639026629529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileBSsAAb"
+*** You are running in headless mode.
+1639026739825	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileBSsAAb\\search.json.mozlz4", (void 0)))
+1639026740909	Marionette	INFO	Listening on port 55908
+1639026741016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile2lKQJO"
+*** You are running in headless mode.
+1639026773026	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile2lKQJO\\search.json.mozlz4", (void 0)))
+1639026774036	Marionette	INFO	Listening on port 56034
+1639026774521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileunZCfD"
+*** You are running in headless mode.
+1639026841294	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileunZCfD\\search.json.mozlz4", (void 0)))
+1639026842370	Marionette	INFO	Listening on port 56156
+1639026842489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilei0sqwa"
+*** You are running in headless mode.
+1639026886999	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilei0sqwa\\search.json.mozlz4", (void 0)))
+1639026888107	Marionette	INFO	Listening on port 56281
+1639026888161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile4AMqiP"
+*** You are running in headless mode.
+1639026980747	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile4AMqiP\\search.json.mozlz4", (void 0)))
+1639026981795	Marionette	INFO	Listening on port 61353
+1639026981984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileBSw9Mp"
+*** You are running in headless mode.
+1639027007399	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileBSw9Mp\\search.json.mozlz4", (void 0)))
+1639027008696	Marionette	INFO	Listening on port 61461
+1639027009141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+1639027049518	geckodriver	INFO	Listening on 127.0.0.1:61590
+1639027052552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofilejiTW5g"
+*** You are running in headless mode.
+1639027052915	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofilejiTW5g\\search.json.mozlz4", (void 0)))
+1639027054092	Marionette	INFO	Listening on port 61598
+1639027054130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+1639027108698	geckodriver	INFO	Listening on 127.0.0.1:61708
+1639027111726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileNElJVv"
+*** You are running in headless mode.
+1639027112045	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileNElJVv\\search.json.mozlz4", (void 0)))
+1639027113107	Marionette	INFO	Listening on port 61724
+1639027113262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+1639027159973	geckodriver	INFO	Listening on 127.0.0.1:49998
+1639027163001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofileumBbHC"
+*** You are running in headless mode.
+1639027163329	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofileumBbHC\\search.json.mozlz4", (void 0)))
+1639027164424	Marionette	INFO	Listening on port 50006
+1639027164540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+1639027306606	geckodriver	INFO	Listening on 127.0.0.1:56227
+1639027309634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\BRANDO~1\\AppData\\Local\\Temp\\rust_mozprofile0ZdgUo"
+*** You are running in headless mode.
+1639027309986	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brandonb123\\AppData\\Local\\Temp\\rust_mozprofile0ZdgUo\\search.json.mozlz4", (void 0)))
+1639027311068	Marionette	INFO	Listening on port 56244
+1639027311174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
